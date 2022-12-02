@@ -1,4 +1,4 @@
-package com.galodb.esports.esports.time
+package com.galodb.esports.time.home
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.galodb.esports.esports.time", appContext.packageName)
+        assertEquals("com.galodb.esports.time.home.test", appContext.packageName)
     }
 }

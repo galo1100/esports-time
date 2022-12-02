@@ -1,4 +1,4 @@
-package com.galodb.esports.esports.time
+package com.galodb.esports.time
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
